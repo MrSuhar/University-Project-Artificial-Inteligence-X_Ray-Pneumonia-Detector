@@ -1,6 +1,6 @@
 # University-Project-Artificial-Inteligence-X_Ray-Pneumonia-Detector
 
-Creators: Bartosz K. (mrsuhar) && Krzystof M. (tba) </br>
+Creators: Bartosz K. (mrsuhar) && Krzystof M. (kmarcinek2k) </br>
 
 The aim of this project is to create AI that recognizes the victims of penumonia based on their chest X-Ray images.</br>
 
